@@ -1,4 +1,4 @@
 # Testing-ContinuoSIASIS
 Proyecto personal de testing continuo con CI/CD enfocada en la detección temprana de errores de FrontEnd
 
-# Elaborado por Yrvin Pachas QA Automation SSr 
+# Elaborado por Yrvin Pachas QA Automation SSr  g
